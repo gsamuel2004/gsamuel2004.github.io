@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title_separator          : "-"
-name                     : "Robin Hokie: Communication Portfolio"
+name                     : "Sam Guzman Professional Portfolio"
 description              : >
-  Professional portfolio for Robin Hokie, School of Communication,
+  Professional portfolio for Sam Guzman, School of Communication,
   Virginia Tech, including work from CMST 4714: The Human Communicator in an
   Era of AI.
 
@@ -24,8 +24,8 @@ description              : >
 # Your web address. Your repo must be named yourusername.github.io.
 # Replace "vt-evia" with your GitHub username, and set baseurl to "" (empty quotes).
 url                      : "https://gsamuel2004.github.io"            # -> "https://yourusername.github.io"
-baseurl                  : "/cmst4714-portfolio-template"         # -> ""
-repository               : "gsamuel2004/cmst4714-portfolio-template"  # -> "yourusername/yourusername.github.io"
+baseurl                  : """
+repository               : "gsamuel2004/cmst4714-portfolio-template"  # -> "gsamuel2004/gsamuel2004.github.io"
 title                    : "Sam Guzman Hokie's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Robin Hokie"
