@@ -29,7 +29,7 @@ repository               : "gsamuel2004/cmst4714-portfolio-template"  # -> "gsam
 title                    : "Sam Guzman Hokie's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Robin Hokie"
-  avatar   : "/images/bio-photo.jpg"
+  avatar   : "bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
   email    : "robin.hokie@vt.edu"
