@@ -24,7 +24,7 @@ description              : >
 # Your web address. Your repo must be named yourusername.github.io.
 # Replace "vt-evia" with your GitHub username, and set baseurl to "" (empty quotes).
 url                      : "https://gsamuel2004.github.io"            # -> "https://yourusername.github.io"
-baseurl                  : """
+baseurl                  : ""
 repository               : "gsamuel2004/gsamuel2004.github.io"  # -> "gsamuel2004/gsamuel2004.github.io"
 title                    : "Sam Guzman Hokie's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
